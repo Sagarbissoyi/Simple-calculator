@@ -7,6 +7,7 @@ body{
     align-items: center;
     height: 100vh;
         background-color: hsl(0, 0%, 95%);
+        
 }
 
 #calculator{
@@ -23,6 +24,7 @@ body{
     text-align: left;
     border: none;
     background-color: hsl(0, 0%, 20%);
+    color: white;
 
 }
 
